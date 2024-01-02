@@ -30,20 +30,55 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 The following video shows an example of the application being used from the command line amd Insomnia:
 
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./assets/images/Homework-Video-Thumbnail.png)]()
+[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./assets/images/Homework-Video-Thumbnail.png)](https://drive.google.com/file/d/1_wFX3sbk7E4Qd54gSUZ38gwiFTVJO75z/view?usp=sharing)
 
-## Screenshot
+## Screenshots
 
-The following image shows the README application's appearance and functionality:
+ The following screenshots shows the application's GET routes to return all users and thoughts being tested in Insomnia:
 
-![Social Network](./assets/images/.png "Screenshot")
+![In Insomnia, the user tests “GET All Users”.](./assets/images/NoSQL-Social-Network-API-1.png)
+
+![In Insomnia, the user tests “GET All Thoughts”.](./assets/images/NoSQL-Social-Network-API-2.png)
+
+The following screenshots shows the application's GET routes to return a single user and a single thought being tested in Insomnia:
+
+![In Insomnia, the user tests “GET User by ID”.](./assets/images/NoSQL-Social-Network-API-3.png)
+
+![In Insomnia, the user tests “GET Thought by ID”.](./assets/images/NoSQL-Social-Network-API-4.png)
+
+The following screenshots shows the application's POST routes for  being tested in Insomnia:
+
+![In Insomnia, the user tests “POST Create User”.](./assets/images/NoSQL-Social-Network-API-5.png)
+
+![In Insomnia, the user tests “POST Create Thought".](./assets/images/NoSQL-Social-Network-API-6.png)
+
+![In Insomnia, the user tests “POST Add Reaction”.](./assets/images/NoSQL-Social-Network-API-7.png)
+
+![In Insomnia, the user tests “POST Add Friend”.](./assets/images/NoSQL-Social-Network-API-8.png)
+
+The following screenshots shows the application's PUT routes for  being tested in Insomnia:
+
+![In Insomnia, the user tests “PUT Update User”.](./assets/images/NoSQL-Social-Network-API-9.png)
+
+![In Insomnia, the user tests “PUT Update Thought".](./assets/images/NoSQL-Social-Network-API-10.png)
+
+The following screenshots shows the application's DELETE routes for  being tested in Insomnia:
+
+![In Insomnia, the user tests “DELETE User”.](./assets/images/NoSQL-Social-Network-API-11.png)
+
+![In Insomnia, the user tests “DELETE Thought".](./assets/images/NoSQL-Social-Network-API-12.png)
+
+![In Insomnia, the user tests “DELETE Reaction”.](./assets/images/NoSQL-Social-Network-API-13.png)
+
+![In Insomnia, the user tests “DELETE Friend”.](./assets/images/NoSQL-Social-Network-API-14.png)
+
  
  ## Table of Contents
   - [Description](#description)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Link to Google Drive](#link-to-google-drive)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Test](#test)
